@@ -1,0 +1,12 @@
+*numpy
+*pandas
+*sklearn
+*mlflow
+*joblib
+*fastapi
+*pindatic
+*uvicorn
+*streamlit
+*requests
+*localtunnel
+*
